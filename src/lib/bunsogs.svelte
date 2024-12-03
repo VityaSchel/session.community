@@ -1,9 +1,12 @@
-<script>
+<script lang='ts'>
   import Section from "./section.svelte"
 </script>
 
 <Section
+  id='bunsogs'
   title='Bunsogs'
+  saturation={5}
+  brightness={15}
   image='/images/bunsogs.png'
   links={[
     { href: 'https://github.com/vityaSchel/bunsogs/', label: 'Bunsogs GitHub' },
@@ -22,4 +25,6 @@
     <li>Only allow certain attachments (e.g. no images, only voice)</li>
     <li>Global permissions overrides</li>
   </ul>
+  <br />
+  <p>Can be used on any OS where Bun runs (any Linux, Windows, MacOS)</p>
 </Section>

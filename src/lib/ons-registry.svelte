@@ -1,16 +1,18 @@
-<script>
+<script lang='ts'>
   import Section from "./section.svelte"
 </script>
 
 <Section
+  id='ons-registry'
   title='ONS Registry'
+  hue={225}
   image='/images/ons-registry.png'
   links={[
     { href: 'https://ons.session.community', label: 'ons.session.community' },
     { href: 'https://sogs.hloth.dev/ons-registry?public_key=8948f2d9046a40e7dbc0a4fd7c29d8a4fe97df1fa69e64f0ab6fc317afb9c945', label: 'Announcements SOGS' }
   ]}
   description='Open OXEN Name System list, updated automatically from the blockchain.'
-  stack='React, Next.js, next-pwa, Tailwind, Redux-toolkit'
+  stack='React, Next.js, next-pwa'
 >
   <p>Explore ONS records in OXEN blockchain, filter by owner, lookup by partial text query for unhashed names, view estimated money spent on all records by specified owner. Local-first, fully mobile-optimized. Purchase system allows you to buy any ONS name in 30 seconds without having to own oxen wallet and buying crypto — just type in name you want, pay money and it will be automatically pushed to blockchain along with sending you wallet-owner mnemonic to specified email (if you specified it).</p>
   <ul class="list-disc">
