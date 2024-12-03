@@ -31,6 +31,6 @@
     <li>Uses CoinGecko API and OXEN coin historical price data to estimate how much money owner spent on their records</li>
     <li>Uses custom Monero base58 encoding to convert between ed25519 keypairs and OXEN wallet addresses</li>
     <li>Accessibility and fancy design built with @shadcn/ui</li>
-    <li>No ads and bullshit. Free API for everyone with <a href="https://t.me/session_nodejs" rel="nofollow">reference and documentation</a></li>
+    <li>No ads and bullshit. Free API for everyone with <a href="https://gist.github.com/VityaSchel/72210ebeb247816d09261b5194159cc6" rel="nofollow">API docs</a></li>
   </ul>
 </Section>

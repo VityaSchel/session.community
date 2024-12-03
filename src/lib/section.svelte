@@ -23,7 +23,7 @@
   Skip to «{title}»
 </a>
 <section
-  class="min-h-screen p-10 lg:p-20 flex flex-col-reverse lg:flex-row gap-20 section-gradient"
+  class="min-h-100lvh p-10 lg:p-20 flex flex-col-reverse lg:flex-row gap-20 section-gradient"
   style='--bg: hsl({hue}deg, {saturation}%, {brightness}%)'
 >
   <div class="flex flex-col gap-10 shrink-0 items-center w-full lg:w-[400px]">

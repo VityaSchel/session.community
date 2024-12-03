@@ -3,7 +3,7 @@
 </script>
 
 <svelte:window bind:scrollY={scrolled} />
-<div class="flex flex-col items-center justify-center text-center gap-4 h-screen bg-[#121212] px-16 relative">
+<div class="flex flex-col items-center justify-center text-center gap-4 h-100svh bg-[#121212] px-16 relative">
   <h1 class="text-3xl md:text-5xl font-bold">session.community</h1>
   <p>A collection of tools, websites and community creations directories from <a href='https://hloth.dev'>hloth.dev</a></p>
   <span class="absolute bottom-5 animate-bounce transition-opacity" style="opacity: {scrolled > 100 ? 0 : 1}">
