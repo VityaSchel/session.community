@@ -10,6 +10,11 @@
   import SessionWebClient from "$lib/session-web.svelte"
 </script>
 
+<svelte:head>
+  <title>session.community</title>
+  <meta property="og:title" content="session.community" />
+  <meta property="og:url" content="https://session.community/" />
+</svelte:head>
 <Hero />
 <OnsRegistry />
 <SessionBotsDirectory />
