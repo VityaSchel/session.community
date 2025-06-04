@@ -1,6 +1,7 @@
 <script>
   import Hero from "$lib/hero.svelte"
   import OnsRegistry from "$lib/ons-registry.svelte"
+  import IdSessionCommunity from "$lib/id-session-community.svelte"
   import SessionBotsDirectory from "$lib/session-bots-directory.svelte"
   import Bunsogs from "$lib/bunsogs.svelte"
   import SessionJs from "$lib/session-js.svelte"
@@ -17,6 +18,7 @@
 </svelte:head>
 <Hero />
 <OnsRegistry />
+<IdSessionCommunity />
 <SessionBotsDirectory />
 <Bunsogs />
 <SessionJs />

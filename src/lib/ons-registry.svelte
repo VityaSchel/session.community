@@ -6,7 +6,7 @@
   id='ons-registry'
   title='ONS Registry'
   hue={225}
-  image='/images/ons-registry.png'
+  image='/images/ons-registry.webp'
   links={[
     { href: 'https://ons.session.community', label: 'ons.session.community' },
     { href: 'https://sogs.hloth.dev/ons-registry?public_key=8948f2d9046a40e7dbc0a4fd7c29d8a4fe97df1fa69e64f0ab6fc317afb9c945', label: 'Announcements SOGS' }

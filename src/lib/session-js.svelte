@@ -6,7 +6,7 @@
   id='sessionjs'
   title='Session.js'
   hue={80}
-  image='/images/session-js.png'
+  image='/images/session-js.webp'
   links={[
     { href: 'https://sessionjs.github.io/docs/', label: 'Documentation' },
     { href: 'https://sogs.hloth.dev/sessionjs?public_key=8948f2d9046a40e7dbc0a4fd7c29d8a4fe97df1fa69e64f0ab6fc317afb9c945', label: 'Announcements SOGS' }

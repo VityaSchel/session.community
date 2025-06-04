@@ -6,7 +6,7 @@
   id='session-vanity-id'
   title='Session Vanity ID'
   hue={270}
-  image='/images/session-vanity-id.png'
+  image='/images/session-vanity-id.webp'
   links={[
     { href: 'https://session-id.pages.dev', label: 'Generator website' },
     { href: 'https://github.com/VityaSchel/session-id-generator', label: 'GitHub sources & faster CLI' },

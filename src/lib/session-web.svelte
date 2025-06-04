@@ -6,7 +6,7 @@
   id='session-web'
   title='Session Web'
   hue={20}
-  image='/images/session-web.png'
+  image='/images/session-web.webp'
   links={[
     { href: 'https://session-web.pages.dev', label: 'Session in Web browser' },
     { href: 'https://github.com/VityaSchel/session-web', label: 'GitHub source' },

@@ -6,7 +6,7 @@
   id='session-bots-directory'
   title='Session Bots Directory'
   hue={120}
-  image='/images/session-bots-directory.png'
+  image='/images/session-bots-directory.webp'
   links={[
     { href: 'https://bots.session.community', label: 'bots.session.community' },
     { href: 'https://sogs.hloth.dev/session-bots-directory?public_key=8948f2d9046a40e7dbc0a4fd7c29d8a4fe97df1fa69e64f0ab6fc317afb9c945', label: 'Announcements SOGS' }

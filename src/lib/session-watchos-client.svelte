@@ -6,7 +6,7 @@
   id='session-watchos-client'
   title='Apple Watch client'
   hue={290}
-  image='/images/session-watchos.png'
+  image='/images/session-watchos.webp'
   links={[
     { href: 'https://github.com/VityaSchel/session-watchos', label: 'GitHub source' },
     { href: 'https://sogs.hloth.dev/session-watchos?public_key=8948f2d9046a40e7dbc0a4fd7c29d8a4fe97df1fa69e64f0ab6fc317afb9c945', label: 'Announcements SOGS' }

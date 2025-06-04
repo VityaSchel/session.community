@@ -37,8 +37,8 @@
       {/each}
     </div>
   </div>
-  <div class="flex flex-col gap-2">
-    <h1 class="text-6xl md:text-7xl lg:text-8xl font-black mb-5">{title}</h1>
+  <div class="flex flex-col gap-2 min-w-0">
+    <h1 class="text-6xl md:text-7xl lg:text-8xl font-black mb-5 break-words hyphens-auto">{title}</h1>
     <p class="text-lg max-w-[800px] mb-5">{description}</p>
     <div>{@render children?.()}</div>
   </div>

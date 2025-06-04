@@ -7,7 +7,7 @@
   title='Bunsogs'
   saturation={5}
   brightness={15}
-  image='/images/bunsogs.png'
+  image='/images/bunsogs.webp'
   links={[
     { href: 'https://github.com/vityaSchel/bunsogs/', label: 'Bunsogs GitHub' },
     { href: 'https://sogs.hloth.dev/bunsogs?public_key=8948f2d9046a40e7dbc0a4fd7c29d8a4fe97df1fa69e64f0ab6fc317afb9c945', label: 'Announcements SOGS' }
