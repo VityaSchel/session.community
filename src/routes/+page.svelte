@@ -7,6 +7,7 @@
   import SessionJs from "$lib/session-js.svelte"
   import SessionNative from "$lib/session-native.svelte"
   import SessionVanityId from "$lib/session-vanity-id.svelte"
+  import LokinetVanityAddress from "$lib/lokinet-vanity-address.svelte"
   import WatchOsClient from "$lib/session-watchos-client.svelte"
   import SessionWebClient from "$lib/session-web.svelte"
 </script>
@@ -24,5 +25,6 @@
 <SessionJs />
 <SessionNative />
 <SessionVanityId />
+<LokinetVanityAddress />
 <WatchOsClient />
 <SessionWebClient />
